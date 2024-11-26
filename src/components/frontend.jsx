@@ -78,7 +78,7 @@ function App() {
           </button>
         </form>
 
-        <h2 className="text-2xl font-semibold mb-4">All Posts</h2>
+        <h2 className="text-2xl font-bold text-center  mb-4">All Posts</h2>
         {posts.map((post) => (
           <div
             key={post.id}

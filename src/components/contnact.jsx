@@ -45,7 +45,7 @@ const Contact = () => {
           <h2 className="text-3xl font-semibold text-gray-800">Contact Us</h2>
           <p className="mt-4 text-gray-600">
             We’d love to hear from you! Fill out the form below and we’ll get
-            back to you as soon as possible.
+            back to you as soon as possible. we will help you in atainig the best serveince from out team and we gland you choose us. 
           </p>
           <form onSubmit={handleSubmit} className="mt-6">
             <div className="grid grid-cols-1 gap-6">
