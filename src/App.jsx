@@ -1,12 +1,11 @@
 import React from 'react'
 import Frontend from './components/frontend'
-import Conctact from './components/caontact'
-
+import Contact from "./components/contact"
 const App = () => {
   return (
     <div>
       <Frontend/>
-      <Conctact/>
+      <Contact/>
     </div>
   )
 }
